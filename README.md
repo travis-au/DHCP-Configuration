@@ -16,4 +16,11 @@
 
 <br />
 
-<p><img src="images/dhcp1.png" height="85%" width="85%" alt="virtual machine DC01"/></p>
+<p align="center">
+  <img src="images/dhcp1.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp2.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp3.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp4.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp5.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp6.png" height="85%" width="85%" alt="virtual machine DC01"/>
+</p>
