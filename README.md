@@ -8,3 +8,10 @@
 <br />
 <br />
 
+<h3>Install DHCP Role</h3>
+
+<br />
+
+<p>
+  I start by opening Server Manager and launching the Add Roles and Features wizard. From there, I choose a role‑based installation, select dc1 from the server pool, and enable the DHCP Server role, including the required management tools . After confirming the selections, I complete the installation and verify success by checking that DHCP now appears under the Tools menu in Server Manager
+</p>
