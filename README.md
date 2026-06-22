@@ -36,5 +36,20 @@
 <br />
 
 <p align="center">
-  <img src="images/dhcp6.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp7.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp8.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp9.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp10.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp11.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp12.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp13.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp14.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp15.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp16.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp17.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp18.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp19.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp20.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp21.png" height="85%" width="85%" alt="virtual machine DC01"/>
+  <img src="images/dhcp22.png" height="85%" width="85%" alt="virtual machine DC01"/>
 </p>
