@@ -28,3 +28,13 @@
 <br />
 
 <h3>Step 2: Configure DHCP</h3>
+
+<p>
+  In this step, I configure DHCP by creating three separate scopes for Users LAN, Corporate Voice, and Guest Wi‑Fi, each with its own IP range, exclusions, and lease duration . I then set the essential DHCP options like the default gateway, DNS server, and domain name for each scope . After that, I add reservations for devices that need consistent IP addresses and finish by validating that all scopes, exclusions, and options are correctly configured on the server side .
+</p>
+
+<br />
+
+<p align="center">
+  <img src="images/dhcp6.png" height="85%" width="85%" alt="virtual machine DC01"/>
+</p>
