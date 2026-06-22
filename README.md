@@ -24,3 +24,7 @@
   <img src="images/dhcp5.png" height="85%" width="85%" alt="virtual machine DC01"/>
   <img src="images/dhcp6.png" height="85%" width="85%" alt="virtual machine DC01"/>
 </p>
+
+<br />
+
+<h3>Step 2: Configure DHCP</h3>
